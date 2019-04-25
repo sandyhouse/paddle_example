@@ -2,7 +2,7 @@
 This file shows the usage of paddle datasets.
 """
 
-import paddle.datasets.cifar as cifar
+import paddle.dataset.cifar as cifar
 
 if __name__ == '__main__':
     print(">>>CIFAR DATA")
