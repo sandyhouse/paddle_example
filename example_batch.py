@@ -1,3 +1,6 @@
+"""
+Illustrate the usage of paddle.batch
+"""
 from __future__ import print_function
 import paddle.batch as batch
 
